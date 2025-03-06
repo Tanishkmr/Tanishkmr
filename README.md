@@ -2,7 +2,7 @@
 
 <h3 align="center">📚software engigneer student at @polimi (politecnico di milano) in italy.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
